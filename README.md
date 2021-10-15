@@ -44,3 +44,8 @@ https://www.youtube.com/watch?v=DiXbJL3iWVs&ab_channel=Rocketseat
 - fs
 - path
 - http (criar servidor, servir página html e js, API)
+
+
+
+npm init -y
+npm i nodemon -D
